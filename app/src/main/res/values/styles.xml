@@ -1,0 +1,85 @@
+<resources>
+
+    <!--首页tab_menu的样式-->
+    <style name="Tab_Menu_Index">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@drawable/selector_tab_menu_text</item>
+        <item name="android:drawablePadding">@dimen/_px10dp</item>
+        <item name="android:textSize">@dimen/px20dp</item>
+        <item name="android:paddingTop">@dimen/px18dp</item>
+    </style>
+    <!--忘记密码页输入框-->
+    <style name="Forget_Password_EditText">
+        <item name="android:background">@color/white</item>
+        <item name="android:drawablePadding">@dimen/px28dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">@dimen/px28dp</item>
+        <item name="android:textColorHint">@color/cccccc</item>
+        <item name="android:layout_height">@dimen/px88dp</item>
+        <item name="android:textSize">@dimen/px28dp</item>
+    </style>
+    <style name="input_style">
+        <item name="android:background">@color/white</item>
+        <item name="android:drawablePadding">@dimen/px6dp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">@dimen/px6dp</item>
+        <item name="android:textColorHint">@color/cccccc</item>
+        <item name="android:layout_height">@dimen/px88dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">@dimen/px26dp</item>
+    </style>
+    <!--登录页输入框-->
+    <style name="Login_EditText">
+        <item name="android:background">@color/white</item>
+        <item name="android:drawablePadding">@dimen/px28dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">@dimen/px28dp</item>
+        <item name="android:textColorHint">@color/cccccc</item>
+        <item name="android:layout_height">@dimen/px88dp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <!--按钮默认样式-->
+    <style name="Main_Button">
+        <item name="android:layout_marginRight">@dimen/px20dp</item>
+        <item name="android:layout_marginLeft">@dimen/px20dp</item>
+        <item name="android:background">@drawable/shape_main_btn</item>
+        <item name="android:layout_height">@dimen/px88dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">@dimen/px28dp</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+
+    <style name="item_layout">
+        <item name="android:background">@drawable/item_selector</item>
+        <item name="android:layout_height">@dimen/px88dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/px20dp</item>
+        <item name="android:paddingRight">@dimen/px20dp</item>
+    </style>
+
+    <style name="item_label">
+        <item name="android:textSize">@dimen/px28dp</item>
+        <item name="android:textColor">@color/gray2</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="item_value">
+        <item name="android:layout_marginLeft">@dimen/px20dp</item>
+        <item name="android:textSize">@dimen/px26dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginRight">@dimen/px48dp</item>
+    </style>
+    <style name="selfProgressWeb" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/self_progress_web</item>
+        <item name="android:minHeight">2dp</item>
+        <item name="android:maxHeight">2dp</item>
+    </style>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container_dialog"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@color/transparent"
+        android:id="@+id/pop_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10">
+
+        <com.library.widget.NListView
+            android:id="@+id/model_list"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:cacheColorHint="#00000000"
+            android:dividerHeight="0.5dp"
+            android:divider="@color/dividers_color"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:background="@drawable/pick_single_bg"
+            android:listSelector="@color/transparent"
+            android:scrollbars="none"
+            android:scrollingCache="false" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/page_title_height"
+            android:layout_marginBottom="15dip"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/pick_single_bg"
+            android:text="@string/cancel_str"
+            android:textColor="@color/photo_pick_color"
+            android:textSize="@dimen/text_size_16" />
+    </LinearLayout>
+
+</RelativeLayout>

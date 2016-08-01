@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.library.widget.refreshlayout.RefreshLayout
+        android:id="@+id/ref_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="horizontal"/>
+
+    </com.library.widget.refreshlayout.RefreshLayout>
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/px1dp"
+        android:background="@color/divider_cccccc" />
+
+    <RelativeLayout
+        android:id="@+id/delete_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <CheckBox
+            android:id="@+id/check_all"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dip"
+            android:button="@drawable/check_selector"
+            android:padding="4dip"
+            android:text="@string/check_all"
+            android:textColor="@color/black"
+            android:background="@null"/>
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_horizontal"
+            android:background="#FFFFFF"
+            android:text="@string/delete"
+            android:textColor="#FF0101"
+            android:textSize="@dimen/px28dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#F1F1F1"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/ShowCheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_10"
+            android:text="价格从低到高"
+            android:textColor="@color/text_color_main"
+            android:textSize="@dimen/text_size_16" />
+
+        <CheckBox
+            android:id="@+id/checkbox_prcie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:button="@drawable/checkbox_selector_a1"
+            android:padding="@dimen/padding_10" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.6dp"
+        android:background="@color/dividers_color" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F1F1F1"
+        android:padding="@dimen/padding_10"
+        android:text="商品种类"
+        android:textColor="@color/text_color_main"
+        android:textSize="@dimen/text_size_16" />
+
+    <com.library.widget.NGridView
+        android:id="@+id/model_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#F1F1F1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:listSelector="@color/transparent"
+        android:numColumns="4"
+        android:scrollbars="none"
+        android:scrollingCache="false">
+    </com.library.widget.NGridView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.8dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/dividers_color" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/complete"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:background="#00B0F0"
+            android:gravity="center"
+            android:padding="@dimen/padding_10"
+            android:text="完成"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.8dp"
+        android:background="@color/dividers_color" />
+
+</LinearLayout>

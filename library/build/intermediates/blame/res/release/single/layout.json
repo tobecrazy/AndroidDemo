@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_clip_image.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_clip_image.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/layout_alertview_actionsheet.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/item_alertbutton.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/item_alertbutton.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/item_simple2.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/item_simple2.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/layout_alertview_alert.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_alert.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/item_alertbutton.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/item_alertbutton.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/dialog_loading_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/dialog_loading_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_default_data.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_default_data.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/layout_alertview.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_display_photo.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_display_photo.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_report.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_report.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/divider.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/divider.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_capture.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_capture.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/widget_toolbar_title.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/widget_toolbar_title.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_clip_image.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_clip_image.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_webview.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/item_gridview_model.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/item_gridview_model.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_cycle_viewpager_contet.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/widget_toolbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/widget_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_cycle_viewpager_indicator.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_photo_type.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_photo_type.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_viewpager_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_viewpager_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_report.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_report.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_default_data.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_default_data.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/layout_alertview.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_capture.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_capture.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/dialog_search_type.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/dialog_search_type.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_display_photo.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_display_photo.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/layout_alertview_alert.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_alert.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_cycle_viewpager_indicator.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_vertical_popup.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_vertical_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/layout_alertview_alert_horizontal.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/widget_toolbar_title.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/widget_toolbar_title.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/fragment_image_detail.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/fragment_image_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/dialog_pickup.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/dialog_pickup.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/item_simple2.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/item_simple2.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_cycle_viewpager_contet.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/list_dir.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/list_dir.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/layout_alertview_alert_horizontal.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_image_show.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_image_show.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_vertical_popup.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_vertical_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/item_total_model.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/item_total_model.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/item_vertical_popup.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/item_vertical_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/item_total_model.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/item_total_model.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_webview.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/dialog_tips.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/dialog_tips.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/widget_status_bar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/widget_status_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/item_gridview_model.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/item_gridview_model.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/include_alertheader.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/include_alertheader.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_send_error.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_send_error.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/item_vertical_popup.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/item_vertical_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/custom_toolbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_photo_wall.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_photo_wall.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/dialog_tips.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/dialog_tips.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/layout_alertview_alert_vertical.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_alert_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/dialog_area_selete.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/dialog_area_selete.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/list_dir.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/list_dir.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/divider.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/divider.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/list_dir_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/list_dir_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/item_image_grid.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/item_image_grid.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_edit_content.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_edit_content.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/layout_alertview_actionsheet.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/dialog_area_selete.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/dialog_area_selete.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_photo_type.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_photo_type.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/dialog_loading_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/dialog_loading_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_banner.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_banner.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/fragment_image_detail.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/fragment_image_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_send_error.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_send_error.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/grid_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_line_menu.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_line_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_list_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_list_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_banner.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_banner.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/dialog_total_model.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/dialog_total_model.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/widget_status_bar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/widget_status_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_edit_content.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_edit_content.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/widget_toolbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/widget_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/view_image_carousel.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/view_image_carousel.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/dialog_search_type.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/dialog_search_type.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/fragment_list_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/fragment_list_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_viewpager_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_viewpager_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_line_menu.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_line_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/include_alertheader.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/include_alertheader.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/dialog_total_model.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/dialog_total_model.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_photo_wall.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_photo_wall.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/list_dir_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/list_dir_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/dialog_pickup.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/dialog_pickup.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/item_image_grid.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/item_image_grid.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/activity_image_show.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/layout/activity_image_show.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/custom_toolbar.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/grid_item.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/view_image_carousel.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/view_image_carousel.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/activity_list_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/activity_list_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/layout/layout_alertview_alert_vertical.xml",
+        "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/exploded-aar/com.bigkoo/alertview/1.0.2/res/layout/layout_alertview_alert_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/layout/fragment_list_layout.xml",
+        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/layout/fragment_list_layout.xml"
+    }
+]

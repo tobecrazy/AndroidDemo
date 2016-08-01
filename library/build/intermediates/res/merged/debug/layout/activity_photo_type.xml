@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:id="@+id/photo_type_title"
+        android:layout_height="@dimen/height_toolbar"
+        android:layout_width="match_parent"
+        android:background="@color/main_color">
+
+        <ImageView
+            android:id="@+id/photo_type_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="13dp"
+            android:src="@drawable/back"
+            />
+
+        <TextView
+            android:id="@+id/photo_name"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="相册" />
+
+        <TextView
+            android:id="@+id/photo_type_confirm"
+            android:textSize="14dp"
+            android:layout_width="54dip"
+            android:layout_height="match_parent"
+            android:layout_alignBaseline="@+id/photo_type_back"
+            android:layout_alignBottom="@+id/photo_type_back"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:padding="6dp"
+            android:text="确定" />
+    </RelativeLayout>
+
+
+    <GridView
+        android:id="@+id/id_gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/id_bottom_ly"
+        android:layout_below="@+id/photo_type_title"
+        android:cacheColorHint="@android:color/transparent"
+        android:clipChildren="true"
+        android:gravity="center"
+        android:horizontalSpacing="3dip"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="3dip" >
+    </GridView>
+
+    <RelativeLayout
+        android:id="@+id/id_bottom_ly"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white" >
+
+        <!-- <Spinner
+            android:id="@+id/id_choose_dir"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignTop="@+id/preview_photo" /> -->
+            
+            
+            <TextView
+            android:id="@+id/id_choose_dir"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dip"
+            android:text="所有图片"
+            android:textColor="@color/main_color" />
+
+        <TextView
+            android:id="@+id/id_total_count"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="14dp"
+            android:text="预览"
+            android:textColor="@color/main_color"
+            android:textSize="14sp"
+            android:visibility="gone"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toLeftOf="@+id/id_total_count"
+            android:background="@color/white" />
+    </RelativeLayout>
+
+</RelativeLayout>

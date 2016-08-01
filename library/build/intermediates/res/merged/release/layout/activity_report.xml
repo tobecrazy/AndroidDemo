@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/widget_toolbar" />
+
+    <EditText
+        android:id="@+id/et_report_content"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/shape_edit_fri_group"
+        android:gravity="left"
+        android:hint="请输入举报原因"
+        android:padding="10dp"
+        android:textSize="13sp" />
+
+</LinearLayout>

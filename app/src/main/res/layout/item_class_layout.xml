@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/px10dp"
+        android:layout_marginLeft="@dimen/px16dp"
+        android:layout_marginRight="@dimen/px16dp"
+        android:layout_marginTop="@dimen/px42dp"
+        android:drawableLeft="@mipmap/mig_redblock"
+        android:drawablePadding="@dimen/px16dp"
+        android:text="绿茶"
+        android:textColor="@color/gray2"
+        android:textSize="@dimen/px32dp" />
+
+    <LinearLayout
+        android:padding="@dimen/_px10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <com.google.android.flexbox.FlexboxLayout
+            android:id="@+id/flexbox_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:alignContent="space_between"
+            app:alignItems="stretch"
+            app:flexDirection="row"
+            app:flexWrap="wrap"
+            app:justifyContent="center" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/px10dp"
+        android:layout_marginLeft="@dimen/px16dp"
+        android:layout_marginRight="@dimen/px16dp"
+        android:layout_marginTop="@dimen/px42dp"
+        android:drawableLeft="@mipmap/mig_redblock"
+        android:drawablePadding="@dimen/px16dp"
+        android:text="水产品"
+        android:textAlignment="center"
+        android:textColor="@color/gray2"
+        android:textSize="@dimen/px32dp" />
+
+    <LinearLayout
+        android:padding="@dimen/_px10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <com.google.android.flexbox.FlexboxLayout
+            android:id="@+id/flexbox_layout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:alignContent="space_between"
+            app:alignItems="stretch"
+            app:flexDirection="row"
+            app:flexWrap="wrap"
+            app:justifyContent="center" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/fragment_container_rl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <include layout="@layout/divider" />
+
+    <FrameLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px98dp"
+        android:layout_alignParentBottom="true">
+
+        <RadioGroup
+            android:id="@+id/tab_menu_rg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/main_rb"
+                style="@style/Tab_Menu_Index"
+                android:checked="true"
+                android:drawableTop="@drawable/selector_tab_menu_main"
+                android:text="@string/main" />
+
+            <RadioButton
+                android:id="@+id/crowdfunding_rb"
+                style="@style/Tab_Menu_Index"
+                android:drawableTop="@drawable/selector_tab_menu_product"
+                android:text="产品" />
+
+            <RadioButton
+                android:id="@+id/shoppingcar"
+                style="@style/Tab_Menu_Index"
+                android:drawableTop="@drawable/selector_tab_menu_near"
+                android:text="@string/shoppingcar" />
+
+            <RadioButton
+                android:id="@+id/mine_rb"
+                style="@style/Tab_Menu_Index"
+                android:drawableTop="@drawable/selector_tab_menu_my"
+                android:text="@string/me" />
+        </RadioGroup>
+    </FrameLayout>
+
+</LinearLayout>
