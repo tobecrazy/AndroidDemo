@@ -8,16 +8,15 @@ import com.young.Demo.widget.BannerLayout;
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.InjectView;
+import butterknife.BindView;
+
 
 /**
- * Created by longbh on 16/7/15.
+ * Created by Young  16/7/15.
  */
 public class MainFragment extends BasicFragment {
-    @InjectView(R.id.banner_layout)
-    BannerLayout bannerLayout;
-    @InjectView(R.id.banner_layout_bottom)
-    BannerLayout bannerLayoutBottom;
+    protected BannerLayout bannerLayout;
+    protected BannerLayout bannerLayoutBottom;
 
     @Override
     protected int getViewId() {
@@ -26,8 +25,9 @@ public class MainFragment extends BasicFragment {
 
     @Override
     protected void init() {
+        bannerLayout = (BannerLayout) rootView.findViewById(R.id.banner_layout);
+        bannerLayoutBottom= (BannerLayout) rootView.findViewById(R.id.banner_layout_bottom);
         List<String> bannerUrls = new ArrayList<String>();
-
         bannerUrls.add("http://img30.360buyimg.com/da/jfs/t2983/297/2002289844/50960/e2971e62/5796d126Nb934d250.jpg");
         bannerUrls.add("http://d6.yihaodianimg.com/N05/M0B/BA/12/ChEbulebKmuAIGKQAAHjllhJHus39800.jpg");
         bannerUrls.add("http://img20.360buyimg.com/da/jfs/t2710/176/3413602650/131433/1c625fbc/578c9889N672d27a8.jpg");

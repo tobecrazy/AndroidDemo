@@ -23,13 +23,13 @@ import android.view.WindowManager;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import com.library.R;
 import com.library.dialog.DialogLoading;
 import com.library.utils.SdCardUtil;
 import com.umeng.analytics.MobclickAgent;
 
-import butterknife.ButterKnife;
 
 
 public abstract class BasicActivity extends AppCompatActivity {
@@ -52,6 +52,7 @@ public abstract class BasicActivity extends AppCompatActivity {
         setContentView(getViewId());
         context = this;
         loading = new DialogLoading(context);
+        ButterKnife.bind(this);
         DisplayMetrics dm = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(dm);
         screenWidth = dm.widthPixels;
@@ -125,17 +126,17 @@ public abstract class BasicActivity extends AppCompatActivity {
 
     public void setContentView(int layoutResID) {
         super.setContentView(layoutResID);
-        ButterKnife.inject(this);
+
     }
 
     public void setContentView(View view, LayoutParams params) {
         super.setContentView(view, params);
-        ButterKnife.inject(this);
+        ButterKnife.bind(this);
     }
 
     public void setContentView(View view) {
         super.setContentView(view);
-        ButterKnife.inject(this);
+        ButterKnife.bind(this);
     }
 
     @Override

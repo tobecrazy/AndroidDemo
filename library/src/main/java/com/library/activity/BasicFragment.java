@@ -1,23 +1,20 @@
 package com.library.activity;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.WindowManager;
-import android.widget.RelativeLayout;
-
-import com.library.R;
 
 import butterknife.ButterKnife;
+import butterknife.Unbinder;
 
 public abstract class BasicFragment extends Fragment {
 
     protected BasicActivity context;
     protected View rootView;
+    public Unbinder unbinder;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -29,25 +26,25 @@ public abstract class BasicFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle
             savedInstanceState) {
         View view = setContentView(inflater, getViewId());
+        unbinder =ButterKnife.bind(this, view);
         return view;
     }
 
     @Override
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        ButterKnife.inject(this, view);
+        init();
     }
 
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        init();
     }
 
     @Override
     public void onDestroyView() {
         super.onDestroyView();
-        ButterKnife.reset(this);
+        unbinder.unbind();
     }
 
     /**

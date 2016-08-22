@@ -14,18 +14,16 @@ import com.viewpagerindicator.TabPageIndicator;
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.InjectView;
+import butterknife.BindView;
+
 
 /**
  * Created by longbh on 16/7/7.
  */
 public class ClassFragment extends BasicFragment {
 
-    @InjectView(R.id.indicator)
     TabPageIndicator indicator;
-    @InjectView(R.id.view_pager)
     ViewPager viewPager;
-    @InjectView(R.id.back_btn)
     ImageView backBtn;
 
     private List<String> datas;
@@ -39,6 +37,10 @@ public class ClassFragment extends BasicFragment {
 
     @Override
     protected void init() {
+        indicator = (TabPageIndicator) rootView.findViewById(R.id.indicator);
+        viewPager = (ViewPager) rootView.findViewById(R.id.view_pager);
+        backBtn = (ImageView) rootView.findViewById(R.id.back_btn);
+
 
         if (!iscreate) {
             datas = new ArrayList<>();

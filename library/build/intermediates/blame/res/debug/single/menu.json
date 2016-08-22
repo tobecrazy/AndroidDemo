@@ -2,9 +2,5 @@
     {
         "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/debug/menu/save.xml",
         "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/menu/save.xml"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/debug/menu/save.xml",
-        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/menu/save.xml"
     }
 ]

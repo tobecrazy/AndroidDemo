@@ -9,20 +9,20 @@ import android.view.ViewGroup;
 import java.util.List;
 
 /**
- * Created by longbh on 16/6/1.
+ * @author Young
  */
-public abstract class MutiRecyclerAdapter<T> extends RecyclerView.Adapter<BaseViewHolder>{
+public abstract class MutiRecyclerAdapter<T> extends RecyclerView.Adapter<BaseViewHolder> {
 
     protected List<T> datas;
 
-    public MutiRecyclerAdapter(List<T> datas){
+    public MutiRecyclerAdapter(List<T> datas) {
         super();
         this.datas = datas;
     }
 
     @Override
     public void onBindViewHolder(BaseViewHolder holder, int position) {
-        holder.build(datas.get(position),position);
+        holder.build(datas.get(position), position);
     }
 
     @Override

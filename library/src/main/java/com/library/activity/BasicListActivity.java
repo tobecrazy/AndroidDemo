@@ -12,7 +12,7 @@ import com.library.widget.refreshlayout.RefreshLayout;
 import com.library.widget.refreshlayout.RefreshLayoutDirection;
 
 /**
- * Created by longbh on 16/5/31.
+ * @author Young
  */
 public abstract class BasicListActivity extends BasicActivity {
 

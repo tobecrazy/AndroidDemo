@@ -3,14 +3,15 @@ package com.library.adapter;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
+import butterknife.ButterKnife;
+
 import com.library.listener.OnItemListener;
 
 import java.util.List;
 
-import butterknife.ButterKnife;
 
 /**
- * Created by longbh on 16/6/1.
+ * @author Young
  */
 public abstract class BaseViewHolder<T> extends RecyclerView.ViewHolder {
 
@@ -18,7 +19,7 @@ public abstract class BaseViewHolder<T> extends RecyclerView.ViewHolder {
 
     public BaseViewHolder(View itemView) {
         super(itemView);
-        ButterKnife.inject(this, itemView);
+        ButterKnife.bind(this,itemView);
 
         itemView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,5 +40,5 @@ public abstract class BaseViewHolder<T> extends RecyclerView.ViewHolder {
 
     }
 
-    public abstract void build(T object,int position);
+    public abstract void build(T object, int position);
 }

@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/page_title"
         android:background="@drawable/home_01"
-        android:minHeight="?attr/actionBarSize"
+        android:minHeight="50dp"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
         app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         app:titleTextAppearance="@style/Toolbar.TitleText" />

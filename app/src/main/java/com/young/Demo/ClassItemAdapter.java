@@ -14,7 +14,8 @@ import com.young.Demo.widget.BannerLayout;
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.InjectView;
+import butterknife.BindView;
+import butterknife.ButterKnife;
 
 /**
  * Created by longbh on 16/7/15.
@@ -53,8 +54,8 @@ public class ClassItemAdapter extends MutiRecyclerAdapter<String> {
 
     class HeadViewHolder extends BaseViewHolder<String> {
 
-        @InjectView(R.id.banner_layout)
-        BannerLayout bannerLayout;
+        BannerLayout bannerLayout = (BannerLayout)itemView.findViewById(R.id.banner_layout);
+
 
         public HeadViewHolder(View itemView) {
             super(itemView);
@@ -75,10 +76,8 @@ public class ClassItemAdapter extends MutiRecyclerAdapter<String> {
 
     class ViewHolder extends BaseViewHolder<String> {
 
-        @InjectView(R.id.flexbox_layout)
-        FlexboxLayout flexboxLayout;
-        @InjectView(R.id.flexbox_layout1)
-        FlexboxLayout flexboxLayout1;
+        FlexboxLayout flexboxLayout= (FlexboxLayout) itemView.findViewById(R.id.flexbox_layout);
+        FlexboxLayout flexboxLayout1= (FlexboxLayout) itemView.findViewById(R.id.flexbox_layout1);
 
         public ViewHolder(View itemView) {
             super(itemView);

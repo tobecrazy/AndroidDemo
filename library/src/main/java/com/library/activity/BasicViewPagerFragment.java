@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by longbh on 16/5/31.
+*@author Young
  */
 public class BasicViewPagerFragment extends BasicFragment{
     Toolbar titleToolbar;

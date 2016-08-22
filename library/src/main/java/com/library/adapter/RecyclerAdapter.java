@@ -12,7 +12,7 @@ import com.library.listener.OnItemListener;
 import java.util.List;
 
 /**
- * Created by longbh on 16/6/1.
+ * @author Young
  */
 public abstract class RecyclerAdapter<T> extends RecyclerView.Adapter<BaseViewHolder> {
 

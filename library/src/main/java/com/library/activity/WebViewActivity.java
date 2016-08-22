@@ -11,7 +11,7 @@ import android.webkit.WebViewClient;
 import com.library.R;
 
 /**
- * Created by longbh on 16/6/14.
+ * @author Young
  */
 public class WebViewActivity extends BasicActivity {
 
@@ -52,7 +52,7 @@ public class WebViewActivity extends BasicActivity {
             }
 
             public void onPageStarted(WebView view, String url, Bitmap favicon) {
-                if(isFinishing()){
+                if (isFinishing()) {
                     return;
                 }
                 webview.getSettings().setBlockNetworkImage(true);
@@ -61,7 +61,7 @@ public class WebViewActivity extends BasicActivity {
 
             @Override
             public void onPageFinished(WebView view, String url) {
-                if(isFinishing()){
+                if (isFinishing()) {
                     return;
                 }
                 webview.getSettings().setBlockNetworkImage(false);

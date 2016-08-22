@@ -2,9 +2,5 @@
     {
         "merged": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/build/intermediates/res/merged/release/raw/beep.ogg",
         "source": "/Volumes/Transcend/AndroidProject/AndroidDemo/library/src/main/res/raw/beep.ogg"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidProject/Suport/library/build/intermediates/res/merged/release/raw/beep.ogg",
-        "source": "/Volumes/Transcend/AndroidProject/Suport/library/src/main/res/raw/beep.ogg"
     }
 ]
